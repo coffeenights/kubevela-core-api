@@ -17,7 +17,7 @@ limitations under the License.
 package v1alpha1
 
 import (
-	cpv1alpha1 "github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	cpv1alpha1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 

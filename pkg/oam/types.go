@@ -24,7 +24,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	runtimev1alpha1 "github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	runtimev1alpha1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
 )
 
 // ScopeKind contains the type metadata for a kind of an OAM scope resource.

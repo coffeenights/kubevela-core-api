@@ -17,7 +17,7 @@
 package v1beta1
 
 import (
-	runtimev1alpha1 "github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	runtimev1alpha1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
 

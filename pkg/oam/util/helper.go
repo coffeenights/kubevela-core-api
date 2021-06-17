@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	cpv1alpha1 "github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	cpv1alpha1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/pkg/errors"
 	appsv1 "k8s.io/api/apps/v1"

@@ -21,7 +21,7 @@ limitations under the License.
 package v1alpha2
 
 import (
-	"github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	"github.com/crossplane/crossplane-runtime/apis/common/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 
 	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"

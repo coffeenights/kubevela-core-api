@@ -25,7 +25,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/crossplane/crossplane-runtime/apis/core/v1alpha1"
+	"github.com/crossplane/crossplane-runtime/apis/common/v1"
 	"github.com/crossplane/crossplane-runtime/pkg/resource/fake"
 	"github.com/crossplane/crossplane-runtime/pkg/test"
 	"github.com/pkg/errors"
