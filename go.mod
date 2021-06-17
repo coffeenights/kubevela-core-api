@@ -1,4 +1,4 @@
-module github.com/oam-dev/kubevela-core-api
+module github.com/coffeenights/kubevela-core-api
 
 go 1.13
 
